@@ -1,4 +1,8 @@
-You are tasked with creating a point-of-sale system for a taco restaurant called TEKtacos. Your POS systems must be able to:
+POS System
+
+You are tasked with creating a point-of-sale system for a taco restaurant called TEKtacos. 
+
+Your POS systems must be able to:
 • Create an order for a customer
 • Create and customize the components of the order, which can include:
 o Entrées
